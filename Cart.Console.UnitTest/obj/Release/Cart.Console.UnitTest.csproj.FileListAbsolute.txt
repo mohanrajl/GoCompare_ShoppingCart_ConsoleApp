@@ -1,0 +1,8 @@
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.Console.UnitTest\bin\Release\Cart.Console.UnitTest.dll
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.Console.UnitTest\bin\Release\Cart.Console.UnitTest.pdb
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.Console.UnitTest\bin\Release\Cart.ConsoleApp.exe
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.Console.UnitTest\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.Console.UnitTest\bin\Release\Cart.ConsoleApp.pdb
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.Console.UnitTest\obj\Release\Cart.Console.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.Console.UnitTest\obj\Release\Cart.Console.UnitTest.dll
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.Console.UnitTest\obj\Release\Cart.Console.UnitTest.pdb

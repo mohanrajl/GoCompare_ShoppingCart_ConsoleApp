@@ -1,0 +1,16 @@
+C:\working\Raj\Cart.ConsoleApp\Cart.Console.UnitTest\obj\Debug\Cart.Console.UnitTest.csprojResolveAssemblyReference.cache
+C:\working\Raj\Cart.ConsoleApp\Cart.Console.UnitTest\bin\Debug\Cart.Console.UnitTest.dll
+C:\working\Raj\Cart.ConsoleApp\Cart.Console.UnitTest\bin\Debug\Cart.Console.UnitTest.pdb
+C:\working\Raj\Cart.ConsoleApp\Cart.Console.UnitTest\bin\Debug\Cart.ConsoleApp.exe
+C:\working\Raj\Cart.ConsoleApp\Cart.Console.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\working\Raj\Cart.ConsoleApp\Cart.Console.UnitTest\bin\Debug\Cart.ConsoleApp.pdb
+C:\working\Raj\Cart.ConsoleApp\Cart.Console.UnitTest\obj\Debug\Cart.Console.UnitTest.dll
+C:\working\Raj\Cart.ConsoleApp\Cart.Console.UnitTest\obj\Debug\Cart.Console.UnitTest.pdb
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.Console.UnitTest\bin\Debug\Cart.Console.UnitTest.dll
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.Console.UnitTest\bin\Debug\Cart.Console.UnitTest.pdb
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.Console.UnitTest\bin\Debug\Cart.ConsoleApp.exe
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.Console.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.Console.UnitTest\bin\Debug\Cart.ConsoleApp.pdb
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.Console.UnitTest\obj\Debug\Cart.Console.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.Console.UnitTest\obj\Debug\Cart.Console.UnitTest.dll
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.Console.UnitTest\obj\Debug\Cart.Console.UnitTest.pdb

@@ -1,0 +1,16 @@
+C:\working\Raj\Cart.ConsoleApp\Cart.ConsoleApp\bin\Debug\Cart.ConsoleApp.exe.config
+C:\working\Raj\Cart.ConsoleApp\Cart.ConsoleApp\bin\Debug\Cart.ConsoleApp.exe
+C:\working\Raj\Cart.ConsoleApp\Cart.ConsoleApp\bin\Debug\Cart.ConsoleApp.pdb
+C:\working\Raj\Cart.ConsoleApp\Cart.ConsoleApp\obj\Debug\Cart.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\working\Raj\Cart.ConsoleApp\Cart.ConsoleApp\obj\Debug\Cart.ConsoleApp.exe
+C:\working\Raj\Cart.ConsoleApp\Cart.ConsoleApp\obj\Debug\Cart.ConsoleApp.pdb
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.ConsoleApp\bin\Debug\Cart.ConsoleApp.exe.config
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.ConsoleApp\obj\Debug\Cart.ConsoleApp.exe
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.ConsoleApp\obj\Debug\Cart.ConsoleApp.pdb
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.ConsoleApp\bin\Debug\Cart.ConsoleApp.exe.manifest
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.ConsoleApp\bin\Debug\Cart.ConsoleApp.application
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.ConsoleApp\bin\Debug\Cart.ConsoleApp.exe
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.ConsoleApp\bin\Debug\Cart.ConsoleApp.pdb
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.ConsoleApp\obj\Debug\Cart.ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.ConsoleApp\obj\Debug\Cart.ConsoleApp.exe.manifest
+C:\Users\Raj\Desktop\CV\Old\GoCompare\Cart.ConsoleApp\Cart.ConsoleApp\obj\Debug\Cart.ConsoleApp.application
